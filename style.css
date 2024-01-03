@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    
+
+}
+
+.cal1{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 5px;
+    max-width: 350px;
+    box-shadow: 0 4px 8px 0 black;
+    font-size: 0;
+    border-color: rgb(32, 135, 24);
+
+}
+
+.cal2 #cal3{
+    width: 347px;
+    height: 90px;
+    font-size: 35px;
+    text-align: right;
+    
+}
+.btn{
+    width: 87px;
+    height: 60px;
+    font-weight: bolder;
+    background-color: rgba(11, 11, 11, 0.779);
+    color: white;
+    font-size: 16px;
+}
+
+.btn-style{
+    background-color: blueviolet;
+}
